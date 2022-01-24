@@ -1,3 +1,3 @@
 ## Recipes App
 
-A simple project to solidify the **html basics**.
+A simple **html** project to solidify the **basics**.
